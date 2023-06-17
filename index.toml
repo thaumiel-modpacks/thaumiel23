@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
 file = "config/ProjectE/client.toml"
 hash = "92c087c369efb9fd12b71d47b12a25f83684beae182bf5c406078f22d47bff8e"
 
@@ -991,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "94184f6d3c1fd64f3b79ebf4cb2474bd71dc0651117d8c605942490b1cd518b8"
+hash = "e01b80a9797007df118caea7f9b87d6b426cbe7c15f23517e0cd220845141463"
 metafile = true
 
 [[files]]
