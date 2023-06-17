@@ -78,8 +78,6 @@ This is a semi-private modpack focused on magic and adventure.
 
 If we have mistakenly included a mod for which you reserve permission to use in a modpack, please make an issue or contact the organization and we will remove it immediately.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 - [![Packwiz][Packwiz]][Packwiz-url]
@@ -105,7 +103,7 @@ See the [Packwiz documentation](https://packwiz.infra.link/) for development or 
 
 ## Contributing
 
-We'd be rather suprised if you both found this modpack *and* wanted to contribute to it. Know that this modpack is semi-private and we likely won't be providing maintenance or addressing feature requests for public users.
+We'd be rather suprised if you both found this modpack _and_ wanted to contribute to it. Know that this modpack is semi-private and we likely won't be providing maintenance or addressing feature requests for public users.
 
 If you really do think you can improve this modpack, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
