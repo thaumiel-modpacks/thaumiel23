@@ -31,7 +31,7 @@
 <h3 align="center">Thaumiel 23</h3>
 
   <p align="center">
-    project_description
+    A magic and adventure focused Minecraft modpack.
     <br />
     <a href="https://github.com/thaumiel-modpacks/thaumiel23"><strong>Explore the docs »</strong></a>
     <br />
@@ -71,6 +71,12 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
+This is a semi-private modpack focused on magic and adventure.
+
+### Mod Authors
+
+If we have mistakenly included a mod for which you reserve permission to use in a modpack, please make an issue or contact the organization and we will remove it immediately.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
