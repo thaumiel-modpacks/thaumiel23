@@ -1,0 +1,13 @@
+name = "No Additional Repair Cost - Anvil"
+filename = "noaddrepcost-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "addf88f0242746651d8d3b3d486dbcaa9286beb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3923290
+project-id = 656986

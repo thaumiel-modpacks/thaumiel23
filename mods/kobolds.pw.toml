@@ -1,0 +1,13 @@
+name = "Kobolds"
+filename = "Kobolds-2.6.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/IKKZ10rw/Kobolds-2.6.6.jar"
+hash-format = "sha1"
+hash = "a8286f71f63c3b8cf436f84c5ab20a64306c08a9"
+
+[update]
+[update.modrinth]
+mod-id = "ufaxN0Ay"
+version = "IKKZ10rw"

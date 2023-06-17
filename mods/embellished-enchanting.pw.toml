@@ -1,0 +1,13 @@
+name = "Embellished Enchanting"
+filename = "embellishedenchanting-v1.3.4-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87908fe169a7f3f4e3ab17687571fb299988a748"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3999354
+project-id = 594326

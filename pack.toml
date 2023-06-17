@@ -1,0 +1,13 @@
+name = "Thaumiel23"
+author = "Tokebe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "19eaee2cd3d9c08da6bf32011b8a5cc666e87b4f9871c882e0d9af5993725ce5"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"

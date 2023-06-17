@@ -1,0 +1,18 @@
+name = "Physics Mod"
+filename = "physics-mod-2.12.3-mc-1.19.2-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xy8aRQKS/versions/g2lauLU2/physics-mod-2.12.3-mc-1.19.2-forge.jar"
+hash-format = "sha1"
+hash = "783c2c31255ac800ea159534f30f9d089057b754"
+
+[update]
+[update.modrinth]
+mod-id = "Xy8aRQKS"
+version = "g2lauLU2"
+
+[option]
+optional = true
+default = false
+description = "Adds physics particles to blocks and mobs. Configured to not suck completely."

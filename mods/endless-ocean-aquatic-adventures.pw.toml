@@ -1,0 +1,13 @@
+name = "Endless Ocean: Aquatic Adventures"
+filename = "endlessocean-1.19.2-0.3.1-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cad1e58bd3baf57542e3bd33068f8df980e9ffe8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4087942
+project-id = 594832

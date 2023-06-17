@@ -1,0 +1,13 @@
+name = "Warden Loot [Forge]"
+filename = "wardenlootforge-1.1.3-1.19.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "188bb381d671614c11bae9662bd5208e564198eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3902595
+project-id = 638233

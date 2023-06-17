@@ -1,0 +1,18 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-forge-1.19.2-8.0+3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/qi3AoGA2/AmbientEnvironment-forge-1.19.2-8.0%2B3.jar"
+hash-format = "sha1"
+hash = "4ce7fd4c2654df7463af825bca062f602a77db71"
+
+[update]
+[update.modrinth]
+mod-id = "DyTvM1dv"
+version = "qi3AoGA2"
+
+[option]
+optional = true
+default = true
+description = "Adds slight color noise/variation to biomes."

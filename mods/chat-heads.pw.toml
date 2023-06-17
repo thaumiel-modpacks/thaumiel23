@@ -1,0 +1,18 @@
+name = "Chat Heads"
+filename = "chat_heads-0.10.14-forge-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/VW3S0UWb/chat_heads-0.10.14-forge-1.19.2.jar"
+hash-format = "sha1"
+hash = "03a89eddc1fe386b4a6f1b2deb23285f946600b4"
+
+[update]
+[update.modrinth]
+mod-id = "Wb5oqrBJ"
+version = "VW3S0UWb"
+
+[option]
+optional = true
+default = false
+description = "Adds tiny player head next to chat messages. Cute!"

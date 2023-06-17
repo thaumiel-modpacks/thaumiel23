@@ -1,0 +1,13 @@
+name = "DeepslateCutting"
+filename = "deepslatecutting-forge-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IiuFShHs/versions/NCerf3v5/deepslatecutting-forge-1.5.0.jar"
+hash-format = "sha1"
+hash = "48b4d6564da0c29a7d1f6632a79f1b65db0f77d3"
+
+[update]
+[update.modrinth]
+mod-id = "IiuFShHs"
+version = "NCerf3v5"

@@ -1,0 +1,13 @@
+name = "Craftable Horse Armour & Saddle [CHA&S]"
+filename = "Craftable Horse Armour  Saddle-1.19-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28a3477b5a0e1e64228b6417d3bb7e267693b204"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3830951
+project-id = 224841

@@ -1,0 +1,13 @@
+name = "Squat Grow (Shift / Twerk to grow plants)"
+filename = "squatgrow-3.0.0-build.33+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e355c2a3584b58aac126c3691b84c63838e94d81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4033196
+project-id = 515698

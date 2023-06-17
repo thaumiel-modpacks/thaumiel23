@@ -1,0 +1,13 @@
+name = "Ultimate Plane Mod"
+filename = "plane-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qLDTK94S/versions/qDhFrePV/plane-1.19.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "4b31d49a7eaa0cc1ef61104e27793d4214f04bce"
+
+[update]
+[update.modrinth]
+mod-id = "qLDTK94S"
+version = "qDhFrePV"

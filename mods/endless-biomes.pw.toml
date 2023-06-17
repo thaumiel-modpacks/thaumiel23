@@ -1,0 +1,13 @@
+name = "Endless Biomes"
+filename = "EndlessBiomes 1.3s - 1.19.2 (Server-friendly).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzR01ieE/versions/KdQGtUSS/EndlessBiomes%201.3s%20-%201.19.2%20%28Server-friendly%29.jar"
+hash-format = "sha1"
+hash = "aadaf279b769dc8bfee36c7fc47e63691bfa04de"
+
+[update]
+[update.modrinth]
+mod-id = "pzR01ieE"
+version = "KdQGtUSS"

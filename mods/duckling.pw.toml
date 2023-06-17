@@ -1,0 +1,13 @@
+name = "Duckling"
+filename = "duckling-2.0.8-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jkb861Ih/versions/NbEwYjgU/duckling-2.0.8-forge.jar"
+hash-format = "sha1"
+hash = "485315146a1bb75fc2422e2edce89719f805e14e"
+
+[update]
+[update.modrinth]
+mod-id = "jkb861Ih"
+version = "NbEwYjgU"

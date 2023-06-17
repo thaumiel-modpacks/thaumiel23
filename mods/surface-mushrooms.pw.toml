@@ -1,0 +1,13 @@
+name = "Surface Mushrooms"
+filename = "surfacemushrooms-1.19.2-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jch00SNX/versions/Cbw744Lg/surfacemushrooms-1.19.2-3.1.jar"
+hash-format = "sha1"
+hash = "52542d92aa2417cfad9909ed8df8c34bcdbb99a5"
+
+[update]
+[update.modrinth]
+mod-id = "Jch00SNX"
+version = "Cbw744Lg"

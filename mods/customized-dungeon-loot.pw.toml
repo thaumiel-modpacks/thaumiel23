@@ -1,0 +1,13 @@
+name = "Customized Dungeon Loot"
+filename = "Customized-Dungeon-Loot-1.19-(v.2.1.2).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/44ZUn8LJ/versions/dp7L4CCW/Customized-Dungeon-Loot-1.19-%28v.2.1.2%29.jar"
+hash-format = "sha1"
+hash = "4d80c6682fb79171e53d111a2cb25de50c13c106"
+
+[update]
+[update.modrinth]
+mod-id = "44ZUn8LJ"
+version = "dp7L4CCW"

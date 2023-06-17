@@ -1,0 +1,13 @@
+name = "Enhanced Mob Spawners"
+filename = "spawnermod-1.19.2-1.9.1+Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZF0coYok/versions/P6WuqFmJ/spawnermod-1.19.2-1.9.1%2BForge.jar"
+hash-format = "sha1"
+hash = "7859ff849944a8f51ed77bde2f32438005edb971"
+
+[update]
+[update.modrinth]
+mod-id = "ZF0coYok"
+version = "P6WuqFmJ"

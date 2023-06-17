@@ -1,0 +1,13 @@
+name = "Transparent"
+filename = "transparent-5.1.2+1.19-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/GJxttzXR/transparent-5.1.2%2B1.19-forge.jar"
+hash-format = "sha1"
+hash = "cc03e21c91de8a7585d36623e7ece2b4521571ed"
+
+[update]
+[update.modrinth]
+mod-id = "zp4jb9oQ"
+version = "GJxttzXR"

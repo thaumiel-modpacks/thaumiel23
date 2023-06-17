@@ -1,0 +1,13 @@
+name = "Variety Aquatic"
+filename = "VarietyAquatic-1.0.4-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RgnNZNlx/versions/H0Fxpbm2/VarietyAquatic-1.0.4-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "8ec3fa3135795aad4279216d7abc0dba0cd5bb7e"
+
+[update]
+[update.modrinth]
+mod-id = "RgnNZNlx"
+version = "H0Fxpbm2"

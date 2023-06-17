@@ -1,0 +1,18 @@
+name = "Inventory HUD+"
+filename = "invhud.forge.1.19-3.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57fec1bd929cc2b53fdd047a0a0c6ac988a3376a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4153724
+project-id = 357540
+
+[option]
+optional = true
+default = false
+description = "Can show inventory, armor, potion effects, etc. on HUD. Configured to be only semi-obnoxious by default."

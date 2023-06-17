@@ -1,0 +1,13 @@
+name = "Magitek Mechs"
+filename = "magitekmechs-forge-MC1.19.2-1.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aee8b8dbbad05e9be5d2097f205e1ec5e7b432e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4057479
+project-id = 534029

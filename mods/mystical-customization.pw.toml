@@ -1,0 +1,13 @@
+name = "Mystical Customization"
+filename = "MysticalCustomization-1.19.2-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lNK9A4rh/versions/CfLISM4P/MysticalCustomization-1.19.2-4.0.1.jar"
+hash-format = "sha1"
+hash = "99958b2e85d2fbbb1ec0179b3067213cd123a0b3"
+
+[update]
+[update.modrinth]
+mod-id = "lNK9A4rh"
+version = "CfLISM4P"

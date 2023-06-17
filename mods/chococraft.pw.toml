@@ -1,0 +1,13 @@
+name = "Chococraft"
+filename = "chococraft-1.19.2-forge-0.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bPTEaC7v/versions/ZUvOItsw/chococraft-1.19.2-forge-0.6.5.jar"
+hash-format = "sha1"
+hash = "e1d79daa133655773b3e3b03bc55957924ecf057"
+
+[update]
+[update.modrinth]
+mod-id = "bPTEaC7v"
+version = "ZUvOItsw"

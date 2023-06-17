@@ -1,0 +1,13 @@
+name = "Easy Shulker Boxes"
+filename = "EasyShulkerBoxes-v4.4.1-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gA5euN8S/versions/5tmX635q/EasyShulkerBoxes-v4.4.1-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "64569fb1bde9884d7e19ae0567862a4a9f9c4bc8"
+
+[update]
+[update.modrinth]
+mod-id = "gA5euN8S"
+version = "5tmX635q"

@@ -1,0 +1,13 @@
+name = "Waystone Waypoint Maker"
+filename = "waymaker-1.19-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rh3qQ8P7/versions/GGsx8d4A/waymaker-1.19-1.0.jar"
+hash-format = "sha1"
+hash = "693f9a0e67205ad36a7704fd0c5ac93429e46598"
+
+[update]
+[update.modrinth]
+mod-id = "Rh3qQ8P7"
+version = "GGsx8d4A"

@@ -1,0 +1,13 @@
+name = "XP Tome"
+filename = "xptome-1.19.2-2.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AnpW69o3/versions/NA6KJq2y/xptome-1.19.2-2.1.7.jar"
+hash-format = "sha1"
+hash = "a75c7dc00aaac64e208755e964321fb7885b4113"
+
+[update]
+[update.modrinth]
+mod-id = "AnpW69o3"
+version = "NA6KJq2y"

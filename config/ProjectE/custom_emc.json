@@ -1,0 +1,552 @@
+{
+  "entries": [
+    {
+      "item": "paraglider:spirit_orb",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "emc": 1024
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "emc": 1
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "emc": 8
+    },
+    {
+      "item": "chococraft:loverly_gysahl_green",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "emc": 8096
+    },
+    {
+      "item": "minecraft:stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "byg:soapstone",
+      "emc": 1
+    },
+    {
+      "item": "artifacts:eternal_steak",
+      "emc": 32768
+    },
+    {
+      "item": "paraglider:rito_goddess_statue",
+      "emc": 8096
+    },
+    {
+      "item": "paraglider:horned_statue",
+      "emc": 8096
+    },
+    {
+      "item": "ars_elemental:anima_caster_tome{\"ars_nouveau:caster\":{current_slot:0,flavor:\"Summon a Skeletal Horse for a short time.\",hidden_recipe:\"\",is_hidden:0b,spell_count:1,spells:{spell0:{name:\"\",recipe:{part0:\"ars_nouveau:glyph_self\",part1:\"ars_nouveau:glyph_summon_steed\",part2:\"ars_nouveau:glyph_extend_time\",part3:\"ars_nouveau:glyph_extend_time\",size:4},sound:{pitch:1.0f,soundTag:{id:\"ars_nouveau:fire_family\"},volume:1.0f},spellColor:{b:250,g:50,r:50}}}},display:{Name:\u0027{\"italic\":true,\"color\":\"dark_purple\",\"text\":\"Undead Steed\"}\u0027}}",
+      "emc": 16000
+    },
+    {
+      "item": "ars_nouveau:caster_tome{\"ars_nouveau:caster\":{current_slot:0,flavor:\"Poisons that target and causes them to take additional damage from all sources.\",hidden_recipe:\"\",is_hidden:0b,spell_count:1,spells:{spell0:{name:\"Potent Toxin\",recipe:{part0:\"ars_nouveau:glyph_projectile\",part1:\"ars_nouveau:glyph_hex\",part2:\"ars_nouveau:glyph_harm\",part3:\"ars_nouveau:glyph_extend_time\",size:4},sound:{pitch:1.0f,soundTag:{},volume:1.0f},spellColor:{b:180,g:25,r:255}}}},display:{Name:\u0027{\"italic\":true,\"color\":\"dark_purple\",\"text\":\"Potent Toxin\"}\u0027}}",
+      "emc": 16000
+    },
+    {
+      "item": "minecraft:stone_hoe{Damage:0}",
+      "emc": 10
+    },
+    {
+      "item": "projecte:transmutation_table",
+      "emc": 10244
+    },
+    {
+      "item": "minecraft:brewing_stand",
+      "emc": 1539
+    },
+    {
+      "item": "ars_nouveau:caster_tome{\"ars_nouveau:caster\":{current_slot:0,flavor:\"Creates a fire that quickly freezes to ice.\",hidden_recipe:\"\",is_hidden:0b,spell_count:1,spells:{spell0:{name:\"Farfalla\u0027s Frosty Flames\",recipe:{part0:\"ars_nouveau:glyph_projectile\",part1:\"ars_nouveau:glyph_ignite\",part2:\"ars_nouveau:glyph_delay\",part3:\"ars_nouveau:glyph_conjure_water\",part4:\"ars_nouveau:glyph_freeze\",size:5},sound:{pitch:1.0f,soundTag:{},volume:1.0f},spellColor:{b:180,g:25,r:255}}}},display:{Name:\u0027{\"italic\":true,\"color\":\"dark_purple\",\"text\":\"Farfalla\\\u0027s Frosty Flames\"}\u0027}}",
+      "emc": 16000
+    },
+    {
+      "item": "reliquary:zombie_heart",
+      "emc": 128
+    },
+    {
+      "item": "reliquary:chelicerae",
+      "emc": 128
+    },
+    {
+      "item": "ae2:sky_stone_block",
+      "emc": 1
+    },
+    {
+      "item": "chococraft:gysahl_green",
+      "emc": 1
+    },
+    {
+      "item": "chococraft:gysahl_green_seeds",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:zombie_spawn_egg",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:skeleton_spawn_egg",
+      "emc": 1024
+    },
+    {
+      "item": "reliquary:molten_core",
+      "emc": 1024
+    },
+    {
+      "item": "chococraft:chocobo_feather",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:raw_iron",
+      "emc": 256
+    },
+    {
+      "item": "valhelsia_structures:oak_post",
+      "emc": 16
+    },
+    {
+      "item": "thermal:blitz_rod",
+      "emc": 1356
+    },
+    {
+      "item": "immersiveengineering:seed",
+      "emc": 16
+    },
+    {
+      "item": "occultism:datura_seeds",
+      "emc": 16
+    },
+    {
+      "item": "car:canola_seeds",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:husk_spawn_egg",
+      "emc": 1024
+    },
+    {
+      "item": "supplementaries:bomb_blue",
+      "emc": 1000
+    },
+    {
+      "item": "reliquary:withered_rib",
+      "emc": 1024
+    },
+    {
+      "item": "reliquary:slime_pearl",
+      "emc": 1024
+    },
+    {
+      "item": "ars_nouveau:wilden_wing",
+      "emc": 64
+    },
+    {
+      "item": "thermal:basalz_rod",
+      "emc": 1536
+    },
+    {
+      "item": "projecte:condenser_mk1",
+      "emc": 8987
+    },
+    {
+      "item": "projecte:collector_mk1",
+      "emc": 82953
+    },
+    {
+      "item": "minecraft:furnace",
+      "emc": 8
+    },
+    {
+      "item": "mysticalagriculture:netherite_seeds",
+      "emc": 201644
+    },
+    {
+      "item": "create:veridium",
+      "emc": 16
+    },
+    {
+      "item": "create:asurine",
+      "emc": 16
+    },
+    {
+      "item": "thermal:blizz_rod",
+      "emc": 1536
+    },
+    {
+      "item": "minecraft:comparator",
+      "emc": 463
+    },
+    {
+      "item": "projecte:alchemical_chest",
+      "emc": 8987
+    },
+    {
+      "item": "byg:palo_verde_log",
+      "emc": 32
+    },
+    {
+      "item": "create:crimsite",
+      "emc": 16
+    },
+    {
+      "item": "ars_nouveau:magebloom_crop",
+      "emc": 16
+    },
+    {
+      "item": "projecte:transmutation_tablet",
+      "emc": 2238472
+    },
+    {
+      "item": "minecraft:warden_spawn_egg",
+      "emc": 100000
+    },
+    {
+      "item": "minecraft:creeper_spawn_egg",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:guardian_spawn_egg",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:pillager_spawn_egg",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:phantom_spawn_egg",
+      "emc": 2048
+    },
+    {
+      "item": "byg:peat",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:black_stained_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "simplyswords:mjolnir{Damage:0,nether_power:\"socket_empty\",runic_power:\"no_socket\"}",
+      "emc": 100000
+    },
+    {
+      "item": "simplyswords:mjolnir{Damage:7,nether_power:\"no_socket\",runic_power:\"socket_empty\"}",
+      "emc": 139264
+    },
+    {
+      "item": "mysticalagriculture:flight_augment",
+      "emc": 558896
+    },
+    {
+      "item": "minecraft:enderman_spawn_egg",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:cave_spider_spawn_egg",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:spider_spawn_egg",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:wither_skeleton_spawn_egg",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:spawner",
+      "emc": 10000
+    },
+    {
+      "item": "supplementaries:quiver",
+      "emc": 100
+    },
+    {
+      "item": "enigmaticlegacy:earth_heart{isTainted:1b}",
+      "emc": 1000000
+    },
+    {
+      "item": "minecraft:zombified_piglin_spawn_egg",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:blaze_spawn_egg",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:zoglin_spawn_egg",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:magma_cube_spawn_egg",
+      "emc": 2048
+    },
+    {
+      "item": "reliquary:catalyzing_gland",
+      "emc": 1366
+    },
+    {
+      "item": "everlastingabilities:ability_totem{\"everlastingabilities:abilityStoreStack\":[{level:1,name:\"everlastingabilities:special/step_assist\"}]}",
+      "emc": 50000
+    },
+    {
+      "item": "reliquary:mob_charm_fragment{entity:\"minecraft:pillager\"}",
+      "emc": 1024
+    },
+    {
+      "item": "reliquary:eye_of_the_storm",
+      "emc": 1366
+    },
+    {
+      "item": "reliquary:rib_bone",
+      "emc": 1366
+    },
+    {
+      "item": "minecraft:tipped_arrow{Potion:\"upgrade_aquatic:repellence_strong\"}",
+      "emc": 47
+    },
+    {
+      "item": "minecraft:tipped_arrow{Potion:\"upgrade_aquatic:repellence\"}",
+      "emc": 47
+    },
+    {
+      "item": "minecraft:tipped_arrow{Potion:\"upgrade_aquatic:vibing_long\"}",
+      "emc": 47
+    },
+    {
+      "item": "minecraft:tipped_arrow{Potion:\"aquamirae:potion_of_tenacity\"}",
+      "emc": 47
+    },
+    {
+      "item": "minecraft:tipped_arrow{Potion:\"ars_nouveau:blasting_potion_strong\"}",
+      "emc": 47
+    },
+    {
+      "item": "minecraft:piglin_spawn_egg",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:tipped_arrow{Potion:\"ars_elemental:shock_potion_long\"}",
+      "emc": 47
+    },
+    {
+      "item": "minecraft:tipped_arrow{Potion:\"ars_elemental:enderference_potion_long\"}",
+      "emc": 47
+    },
+    {
+      "item": "thermal:apatite",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:stone_brick_slab",
+      "emc": 1
+    },
+    {
+      "item": "upgrade_aquatic:nautilus_bucket",
+      "emc": 832
+    },
+    {
+      "item": "byg:packed_black_ice",
+      "emc": 1
+    },
+    {
+      "item": "byg:black_ice",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:piglin_brute_spawn_egg",
+      "emc": 2048
+    },
+    {
+      "item": "create:andesite_casing",
+      "emc": 120
+    },
+    {
+      "item": "paraglider:goron_goddess_statue",
+      "emc": 8096
+    },
+    {
+      "item": "paraglider:kakariko_goddess_statue",
+      "emc": 8096
+    },
+    {
+      "item": "paraglider:goddess_statue",
+      "emc": 8096
+    },
+    {
+      "item": "alexsmobs:flying_fish_bucket{Health:6.0f,Variant:1}",
+      "emc": 832
+    },
+    {
+      "item": "naturalist:bass_bucket{Health:3.0f}",
+      "emc": 832
+    },
+    {
+      "item": "alexsmobs:lobster_bucket{BucketVariantTag:3,Health:5.0f}",
+      "emc": 832
+    },
+    {
+      "item": "alexsmobs:lobster_bucket{BucketVariantTag:1,Health:5.0f}",
+      "emc": 832
+    },
+    {
+      "item": "alexsmobs:lobster_bucket{BucketVariantTag:0,Health:5.0f}",
+      "emc": 832
+    },
+    {
+      "item": "create:limestone",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:light_blue_stained_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:smooth_stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "ars_nouveau:caster_tome{\"ars_nouveau:caster\":{current_slot:0,flavor:\"A classic.\",hidden_recipe:\"\",is_hidden:0b,spell_count:1,spells:{spell0:{name:\"Fireball!\",recipe:{part0:\"ars_nouveau:glyph_projectile\",part1:\"ars_nouveau:glyph_ignite\",part2:\"ars_nouveau:glyph_explosion\",part3:\"ars_nouveau:glyph_amplify\",part4:\"ars_nouveau:glyph_amplify\",part5:\"ars_nouveau:glyph_aoe\",part6:\"ars_nouveau:glyph_aoe\",size:7},sound:{pitch:1.0f,soundTag:{},volume:1.0f},spellColor:{b:180,g:25,r:255}}}},display:{Name:\u0027{\"italic\":true,\"color\":\"dark_purple\",\"text\":\"Fireball!\"}\u0027}}",
+      "emc": 10000
+    },
+    {
+      "item": "minecraft:drowned_spawn_egg",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:sheep_spawn_egg",
+      "emc": 2048
+    },
+    {
+      "item": "mekanism:pellet_polonium",
+      "emc": 7500
+    },
+    {
+      "item": "mekanism:bio_fuel",
+      "emc": 24
+    },
+    {
+      "item": "mekanism:dust_lithium",
+      "emc": 32
+    },
+    {
+      "item": "mekanism:substrate",
+      "emc": 28
+    },
+    {
+      "item": "ad_astra:oil_bucket",
+      "emc": 1050
+    },
+    {
+      "item": "ad_astra:fuel_bucket",
+      "emc": 3050
+    },
+    {
+      "item": "cgm:basic_bullet",
+      "emc": 11
+    },
+    {
+      "item": "cgm:advanced_bullet",
+      "emc": 22
+    },
+    {
+      "item": "immersiveengineering:plate_steel",
+      "emc": 352
+    },
+    {
+      "item": "cgm:shell",
+      "emc": 16
+    },
+    {
+      "item": "create:zinc_ingot",
+      "emc": 256
+    },
+    {
+      "item": "create:brass_ingot",
+      "emc": 192
+    },
+    {
+      "item": "minecraft:goat_horn",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:wandering_trader_spawn_egg",
+      "emc": 8192
+    },
+    {
+      "item": "mysticalagriculture:inferium_growth_accelerator",
+      "emc": 8234
+    },
+    {
+      "item": "quark:jasper",
+      "emc": 16
+    },
+    {
+      "item": "additionalguns:bullet_long",
+      "emc": 30
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:raw_copper",
+      "emc": 128
+    },
+    {
+      "item": "create:ochrum",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:flesh",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:blood_bucket",
+      "emc": 768
+    },
+    {
+      "item": "upgrade_aquatic:horn_coralstone",
+      "emc": 64
+    },
+    {
+      "item": "upgrade_aquatic:fire_coralstone",
+      "emc": 64
+    },
+    {
+      "item": "upgrade_aquatic:tube_coralstone",
+      "emc": 64
+    },
+    {
+      "item": "upgrade_aquatic:bubble_coralstone",
+      "emc": 64
+    },
+    {
+      "item": "upgrade_aquatic:brain_coralstone",
+      "emc": 64
+    },
+    {
+      "item": "upgrade_aquatic:finger_coralstone",
+      "emc": 64
+    },
+    {
+      "item": "upgrade_aquatic:finger_coral_block",
+      "emc": 64
+    },
+    {
+      "item": "upgrade_aquatic:branch_coral_block",
+      "emc": 64
+    }
+  ]
+}

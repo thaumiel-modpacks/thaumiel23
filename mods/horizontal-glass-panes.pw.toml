@@ -1,0 +1,13 @@
+name = "Horizontal Glass Panes"
+filename = "horizontal_glass_panes-1.0-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4fbfc96d912cc0ae96504dd51a4c0cdb2cabe73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3895085
+project-id = 227706

@@ -1,0 +1,18 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-Forge-1.19.2-2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb397ffa2a5363ec572399d421482f9a4eec7adb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4510876
+project-id = 243190
+
+[option]
+optional = true
+default = true
+description = "More traditional and useable third person. Might not play nice with Better Third Person."

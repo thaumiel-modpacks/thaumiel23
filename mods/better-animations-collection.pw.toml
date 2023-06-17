@@ -1,0 +1,13 @@
+name = "Better Animations Collection"
+filename = "BetterAnimationsCollection-v4.0.5-1.19.2-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoOVj3J3/versions/Hf33v5Jd/BetterAnimationsCollection-v4.0.5-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "580ff41bdca8a903613c260b169c98f096e02195"
+
+[update]
+[update.modrinth]
+mod-id = "OoOVj3J3"
+version = "Hf33v5Jd"

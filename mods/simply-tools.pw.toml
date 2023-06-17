@@ -1,0 +1,13 @@
+name = "Simply Tools"
+filename = "SimplyTools-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7uAVl86/versions/qrcr0s1g/SimplyTools-1.19.2-1.2.1.jar"
+hash-format = "sha1"
+hash = "5d4d80cd6586df2d5cac933a38fbdd26a151b886"
+
+[update]
+[update.modrinth]
+mod-id = "v7uAVl86"
+version = "qrcr0s1g"

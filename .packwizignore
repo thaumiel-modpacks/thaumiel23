@@ -1,0 +1,7 @@
+# Exclude README
+README.md
+
+# Exlcude git stuff
+.git/**
+.gitattributes
+.gitignore

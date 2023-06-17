@@ -1,0 +1,13 @@
+name = "Ensorcellation"
+filename = "ensorcellation-1.19.2-4.2.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ImlP9deQ/versions/jpo4q0vl/ensorcellation-1.19.2-4.2.0.14.jar"
+hash-format = "sha1"
+hash = "55edaa3a8ba9ddee99c58ab7b758251b852c5fca"
+
+[update]
+[update.modrinth]
+mod-id = "ImlP9deQ"
+version = "jpo4q0vl"

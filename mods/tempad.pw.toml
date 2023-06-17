@@ -1,0 +1,13 @@
+name = "Tempad"
+filename = "tempad-forge-1.19.2-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gKNwt7xu/versions/XLGiEUzv/tempad-forge-1.19.2-1.4.4.jar"
+hash-format = "sha1"
+hash = "77b3a733955c58693bb385a627173ecd76176791"
+
+[update]
+[update.modrinth]
+mod-id = "gKNwt7xu"
+version = "XLGiEUzv"
