@@ -109,6 +109,10 @@ file = "config/physicsmod/physics_vines_client_config.json"
 hash = "22da7d352c403d102e7acbed0593cd1ffc4fc91ab47f933d7aef21c91060c68d"
 
 [[files]]
+file = "config/shouldersurfing.toml"
+hash = "230d4974c4551462e822c989338162508d1c0b6ce75fb4d969760cd702263561"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "cad4a954ec0fd16232ce6ce232866517595159da4a26a1fc0e079f4635311f8b"
 metafile = true
